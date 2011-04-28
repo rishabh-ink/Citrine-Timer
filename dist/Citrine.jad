@@ -1,0 +1,8 @@
+MIDlet-1: Citrine Timer,/resources/clock48.png,citrine.CitrineMIDlet
+MIDlet-Jar-Size: 38560
+MIDlet-Jar-URL: Citrine.jar
+MIDlet-Name: Citrine Timer
+MIDlet-Vendor: Rishabh Rao
+MIDlet-Version: 2.0.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
